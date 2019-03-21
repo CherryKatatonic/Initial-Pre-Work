@@ -1,0 +1,23 @@
+/* Already known */
+
+.red-text {
+  color: red;
+}
+
+p {
+  font-size: 16px;
+  font-family: monospace;
+}
+
+h2 {
+  font-family: Lobster, sans-serif;
+}
+
+.smaller-image {
+  width: 100px;
+}
+
+.thick-green-border {
+  border: 10px solid green;
+  border-radius: 10px;
+}
