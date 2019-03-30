@@ -1,4 +1,4 @@
-// Already known
+// Rest operator can be used with destructuring
 
 let a = 8, b = 6;
 (() => {
